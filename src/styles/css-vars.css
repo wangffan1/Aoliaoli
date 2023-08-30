@@ -1,0 +1,13 @@
+html.dark {
+    --el-menu-active-color:#B9B9B9;
+    --el-bg-color: #404452;
+    --el-color-primary: #404452;
+}
+
+.el-pagination.is-background .btn-next.is-active,
+.el-pagination.is-background .btn-prev.is-active,
+.el-pagination.is-background .el-pager li.is-active {
+    --el-color-primary: #404452;
+    --el-color-white:white
+}
+
